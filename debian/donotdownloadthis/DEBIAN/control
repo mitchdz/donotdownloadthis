@@ -1,0 +1,9 @@
+Package: donotdownloadthis
+Version: 0.1
+Architecture: amd64
+Maintainer: Mitchell Dzurick <mitchell.dzurick@canonical.com>
+Installed-Size: 6241
+Section: misc
+Priority: optional
+Homepage: http://www.example.com
+Description: But why?
